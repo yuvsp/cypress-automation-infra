@@ -1,4 +1,4 @@
-# ----- Cypress testing example
+# ----- Cypress Testing Example
 
 -----------------------------------
 # Cypress.io Automation Framework
